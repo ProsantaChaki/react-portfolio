@@ -11,11 +11,11 @@ root.render(
       <AnimatedCursor
           innerSize={8}
           outerSize={25}
-          color='190, 252, 3'
-          outerAlpha={0.3}
+          color='244, 252, 3'
+          outerAlpha={0.5}
           hasBlendMode={true}
           outerStyle={{
-              border: '2px solid #725b8a',
+              border: '2px solid #fc0320',
               mixBlendMode: 'exclusion'
 
           }}
